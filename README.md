@@ -14,6 +14,8 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
 <!--
 **sayedm77/sayedm77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
