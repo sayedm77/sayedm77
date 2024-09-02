@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there 👋, I'm [Elsayed Mansour]
 
+**iOS Developer, Software Engineer**
+
+- 📫 How to reach me: [sayedmansoo123@gmail.com](mailto:sayedmansoo123@gmail.com)
+
+## Connect with me:
 <!--
 **sayedm77/sayedm77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
