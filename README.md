@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Elsayed Mansour]
+# Hi there 👋, I'm Elsayed Mansour!
 
 **iOS Developer, Software Engineer**
 
